@@ -44,3 +44,14 @@ List of Problems encountered once installed.
 unity –reset-icons 
 ```
 
+### Keep the icons in window when maximized
+
+
+1. Go to System Settings
+
+![System Settings](https://raw.githubusercontent.com/jv-10/Ubuntu/master/img/System%20Settings.png)
+
+2. Go to Appearance
+
+3. Choose always displayed
+![Appearance](https://raw.githubusercontent.com/jv-10/Ubuntu/master/img/Appearance.png)
